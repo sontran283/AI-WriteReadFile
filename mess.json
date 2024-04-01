@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Crtis",
+    "info": {
+      "age": 28,
+      "education": "HUST",
+      "job": "AI",
+      "hobby": "soccer"
+    },
+    "ranking_list": [2, 5, 8]
+  },
+  {
+    "name": "Ella",
+    "info": {
+      "age": 28,
+      "education": "HUST",
+      "job": "AI",
+      "hobby": "soccer"
+    },
+    "ranking_list": [2, 5, 8]
+  }
+]
